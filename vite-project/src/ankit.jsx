@@ -1,7 +1,8 @@
 function Ankit() {
+  let myName = "Vinod Choubey";
   return (
     <>
-      <h2>This is ankit choubey</h2>
+      <h2>This is {myName}</h2>
       <p>Im working on react</p>
     </>
   );
